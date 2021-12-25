@@ -24,6 +24,7 @@ dependencies {
 
 }
 
+// tell gradle run test use junit
 test {
     useJUnitPlatform()
 }
